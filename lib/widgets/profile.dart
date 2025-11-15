@@ -33,11 +33,11 @@ class ProfilePageBody extends StatelessWidget {
                       )),
                   const SizedBox(height: 40),
                   const Text(
-                    'Lê Châu Báu',
+                    'NGUYỄN THỊ UEH',
                     style: TextStyle(
                       fontSize: 50,
                       fontWeight: FontWeight.bold,
-                      color: Color(0xFFE8955E),
+                      color: Color(0xFF73E85E),
                     ),
                   ),
                 ],
@@ -50,7 +50,7 @@ class ProfilePageBody extends StatelessWidget {
             flex: 4,
             child: Container(
               width: double.infinity,
-              color: const Color(0xFFE8955E),
+              color: const Color(0xFF63E85E),
               padding: const EdgeInsets.only(top: 10, left: 20, right: 20),
               child: SingleChildScrollView(
                 child: Column(
